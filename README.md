@@ -9,7 +9,7 @@
 <body>
   <header>
     <p>Alam adalah seluruh keberadaan di luar manusia yang meliputi semua
-        fenomena fisik dan kehidupan di dunia, seperti  matahari, tanah, udara,
+        fenomena fisik dan kehidupan dI dunia, seperti  matahari, tanah, udara,
         tumbuhan, hewan, dan segala peristiwa alam. Saya sendiri  menyukai
         alam karena begitu menawan.<br><code>Saya tidak pernah menyesal untuk mengucapkan 
         bahwa alam itu indah, alam mempunyai banyak cerita yang sulit di ucapkan lewat kata karena, di sana tempatnya
